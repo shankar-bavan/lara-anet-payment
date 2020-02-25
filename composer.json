@@ -8,7 +8,6 @@
         "dompdf/dompdf": "^0.8.2",
 	    "illuminate/container": "^5.2|^5.1",
 	    "illuminate/database": "~5.1",
-	    "illuminate/support": "~5.1",
         "php": "^7.2"
     },
     "require-dev": {

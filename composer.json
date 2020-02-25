@@ -30,5 +30,5 @@
             "Laravel\\Cashier\\AuthorizeNet\\": "src/"
         }
    },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable",
 }

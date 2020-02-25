@@ -6,11 +6,7 @@
     "require": {
         "authorizenet/authorizenet": "^2.0",
         "dompdf/dompdf": "^0.8.2",
-	    "illuminate/container": "^5.2|^5.1",
         "php": "^7.2"
-    },
-    "require-dev": {
-        "illuminate/view": "^5.7@dev"
     },
     "license": "MIT",
     "authors": [

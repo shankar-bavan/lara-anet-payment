@@ -9,7 +9,7 @@ This package provides a compatible, expressive and fluent interface to [Authoriz
 Please read the following for the basic setup.
 
 ## Composer Setup 
-`composer require shankar-bavan/cashier-authorize-dot-net`
+`composer require https://github.com/shankar-bavan/lara-anet-payment`
 
 #### .env
 ADN_ENV=

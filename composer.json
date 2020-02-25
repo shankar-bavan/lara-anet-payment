@@ -1,5 +1,5 @@
 {
-    "name": "shankar-bavan/cashier-authorize-dot-net",
+    "name": "https://github.com/shankar-bavan/lara-anet-payment",
     "description": "A Laravel Cashier interface to Authorize.net's subscription native billing services.",
     "keywords": ["laravel", "billing", "cashier", "authorize.net", "payment module"],
     "type": "library",
